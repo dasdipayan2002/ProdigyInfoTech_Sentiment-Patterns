@@ -1,0 +1,1 @@
+# ProdigyInfoTech_Sentiment-Patterns
